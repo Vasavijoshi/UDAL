@@ -49,17 +49,6 @@ Key components:
 7. Psutil - System resource monitoring
 
 
-**Project Structure**
-                UDAL1
-                │
-                ├── data/                       # Static data files
-                │   ├── sewer_assets_gis.csv    # GIS asset information
-                │   ├── scada_logs_pump_station.csv  # SCADA telemetry logs
-                │   └── public_complaints.csv   # Public complaints data
-                │
-                ├── scada_dashboard.py  # Main Python script 
-                └── README.md                   # This documentation
-
 
 **How to Run**
 1. pip install streamlit pandas numpy plotly folium streamlit-folium matplotlib scikit-learn xgboost fpdf2 psutil
