@@ -1,0 +1,31 @@
+complaint_id,date,location,type,status
+C001,2025-06-01,"12.8642,74.8423",Overflow,Resolved
+C002,2025-06-02,"12.8667,74.8445",Manhole Collapse,Pending
+C003,2025-06-03,"12.8598,74.8378",Sewage Leak,In Progress
+C004,2025-06-04,"12.8723,74.8501",Bad Odor,Resolved
+C005,2025-06-05,"12.8612,74.8389",Overflow,In Progress
+C006,2025-06-06,"12.8689,74.8456",Blocked Drain,Pending
+C007,2025-06-07,"12.8634,74.8412",Manhole Collapse,In Progress
+C008,2025-06-08,"12.8701,74.8478",Sewage Leak,Resolved
+C009,2025-06-09,"12.8656,74.8434",Bad Odor,Pending
+C010,2025-06-10,"12.8745,74.8512",Overflow,In Progress
+C011,2025-05-30,"12.8578,74.8356",Blocked Drain,Resolved
+C012,2025-05-31,"12.8712,74.8489",Sewage Leak,Resolved
+C013,2025-06-01,"12.8645,74.8423",Bad Odor,Pending
+C014,2025-06-02,"12.8691,74.8467",Manhole Collapse,In Progress
+C015,2025-06-03,"12.8623,74.8401",Overflow,Resolved
+C016,2025-06-04,"12.8667,74.8445",Blocked Drain,Pending
+C017,2025-06-05,"12.8598,74.8378",Sewage Leak,In Progress
+C018,2025-06-06,"12.8734,74.8489",Bad Odor,Resolved
+C019,2025-06-07,"12.8612,74.8389",Overflow,Pending
+C020,2025-06-08,"12.8689,74.8456",Manhole Collapse,In Progress
+C021,2025-06-09,"12.8701,74.8478",Blocked Drain,Resolved
+C022,2025-06-10,"12.8634,74.8412",Sewage Leak,Pending
+C023,2025-05-28,"12.8756,74.8523",Bad Odor,Resolved
+C024,2025-05-29,"12.8645,74.8423",Overflow,In Progress
+C025,2025-05-30,"12.8623,74.8401",Manhole Collapse,Resolved
+C026,2025-06-01,"12.8712,74.8489",Blocked Drain,Pending
+C027,2025-06-02,"12.8567,74.8345",Sewage Leak,In Progress
+C028,2025-06-03,"12.8698,74.8467",Bad Odor,Resolved
+C029,2025-06-04,"12.8634,74.8412",Overflow,Pending
+C030,2025-06-05,"12.8745,74.8512",Manhole Collapse,In Progress
