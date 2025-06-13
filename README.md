@@ -50,15 +50,15 @@ Key components:
 
 
 **Project Structure**
-scada-monitor/
-│
-├── data/                       # Static data files
-│   ├── sewer_assets_gis.csv    # GIS asset information
-│   ├── scada_logs_pump_station.csv  # SCADA telemetry logs
-│   └── public_complaints.csv   # Public complaints data
-│
-├── scada_dashboard.py  # Main Python script 
-└── README.md                   # This documentation
+                UDAL1
+                │
+                ├── data/                       # Static data files
+                │   ├── sewer_assets_gis.csv    # GIS asset information
+                │   ├── scada_logs_pump_station.csv  # SCADA telemetry logs
+                │   └── public_complaints.csv   # Public complaints data
+                │
+                ├── scada_dashboard.py  # Main Python script 
+                └── README.md                   # This documentation
 
 
 **How to Run**
