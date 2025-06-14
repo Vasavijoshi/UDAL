@@ -2,6 +2,9 @@
 
 A powerful dashboard built using Streamlit , Plotly , and Folium to monitor sewer infrastructure in real-time with GIS mapping, predictive maintenance, fault detection, and alert management capabilities.
 
+**Live Demo**
+https://vasavijoshi-udal-scada-dashboard-zqftyo.streamlit.app/
+
 **Overview**
 This system provides real-time monitoring of sewer assets such as Wet Wells , Sewage Treatment Plants (STP) , and other pumping stations. It combines SCADA data , GIS asset locations, and public complaints to deliver actionable insights through an interactive dashboard.
 
